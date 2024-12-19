@@ -20,6 +20,6 @@ This project is a simple webpage built with **React** that allows users to input
 
 ## How to Use:
 1. Clone the repository to your local machine:
-   ```bash
- https://github.com/Vartikagrawal/TextAnalyzer.git
+   https://github.com/Vartikagrawal/TextAnalyzer.git ```bash
+
 
